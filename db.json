@@ -1,1 +1,11 @@
-
+{
+  "Product": [
+    {
+      "productName": "K",
+      "sellerEmail": "k",
+      "productPrice": "K",
+      "productQuantity": "K",
+      "productDescription": "K"
+    }
+  ]
+}
